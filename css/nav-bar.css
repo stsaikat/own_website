@@ -1,6 +1,6 @@
 .header{
 	width: 100%;
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(0,0,0,0.1);
 	position: absolute;
 }
 
@@ -18,14 +18,14 @@
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #fff;
-	font-size: 18px;
+	font-size: 15px;
 	font-family: sans-serif;
 	letter-spacing: 2px;
-	font-weight: 600;
+	font-weight: 200;
 	padding: 25px;
 	transition: all ease 0.5s;
 }
 
 .header ul li a:hover{
-	background-color: #211b4385;
+	background-color: #262323;
 }
