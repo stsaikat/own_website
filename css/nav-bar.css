@@ -19,13 +19,13 @@
 	text-transform: uppercase;
 	color: #fff;
 	font-size: 15px;
-	font-family: sans-serif;
+	font-family: monospace;
 	letter-spacing: 2px;
 	font-weight: 200;
-	padding: 25px;
+	padding: 20px;
 	transition: all ease 0.5s;
 }
 
 .header ul li a:hover{
-	background-color: #262323;
+	background-color: rgba(0,0,0,0.2);
 }
